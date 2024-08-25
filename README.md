@@ -61,3 +61,11 @@
   - (3) value of the currentNode is pushed to the results array
   - (4) if right node is present, then it becomes the currentNode and point (2) onwards is repeated
   - (5) results array is returned
+
+## 3. [Selection Sort](<./Selection Sort.js>)
+
+- Step 1: Let the first index be the min_index (index holding minimum array element)
+- Step 2: Compare each subsequent element with the element at min_index
+- Step 3: Update the min_index
+- Step 4: Swap the first element with the element at min_index
+- Step 5: Repeat from Step 1 to 4 for next index
