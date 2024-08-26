@@ -24,6 +24,6 @@ for (let i = 0; i < arr.length - 1; i++) {
 //       arr[i] = tem;
 //     }
 //   }
-// }s
+// }
 
 console.log(arr);

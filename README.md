@@ -69,3 +69,9 @@
 - Step 3: Update the min_index
 - Step 4: Swap the first element with the element at min_index
 - Step 5: Repeat from Step 1 to 4 for next index
+
+## 4. [Bubble Sort](<./Bubble Sort.js>)
+
+- Step 1: Loop through the array (arr.length - 1) number of times
+- Step 2: Compare each element with its adjacent element and swap them if the later is smaller
+- Step 3: After each pass the largest element will be at the end, therefore, the comparison may exclude them
